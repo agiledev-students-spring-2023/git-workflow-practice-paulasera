@@ -1,6 +1,6 @@
 # Wired Article Reflection
 ## "Fake Pictures of People of Color Won’t Fix AI Bias" by Leo Kim
-Click [here] (https://www.wired.com/story/synthetic-image-media-bias-artificial-intelligence/) to read.
+Click [here](https://www.wired.com/story/synthetic-image-media-bias-artificial-intelligence/) to read.
 
 As artificial intelligence and machine learning gain more populartity in the tech world, its controversial shortcomings continue to be dismissed -- not because they are benign, but because they would require us to revisit a history that is so actively avoided in fear of discomfort. Although machines' capabilities continue to grow faster than most can comprehend, the foundation for these innovative features remain the same. This rotten base will likely continue to serve as the root of this revolutionary tree until it tips over from the weight of its bearings, unless its flaws are properly and directly addressed.
 
